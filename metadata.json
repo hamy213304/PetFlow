@@ -1,0 +1,6 @@
+{
+  "name": "PetFlow - Quản lý Spa Thú Cưng",
+  "description": "Ứng dụng Android quản lý spa thú cưng PetFlow theo đặc tả SRS v1.0: khách hàng, thú cưng, lịch hẹn, tồn kho, hóa đơn, tiêm phòng, thông báo và báo cáo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
